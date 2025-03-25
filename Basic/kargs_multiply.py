@@ -10,4 +10,5 @@ def a_lot(num1,num2):
     remain=num1-num2
     return [sum,mullt,remain]
 everything=a_lot(20,9)
+
 print(everything)
