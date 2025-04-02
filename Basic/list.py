@@ -4,3 +4,4 @@ print(numbers)
 numbers.insert(2,89 )
 
 print(numbers)
+print(numbers)
