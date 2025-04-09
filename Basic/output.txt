@@ -1,2 +1,2 @@
-rahim apple 900
-k sam 800
+[{'item': 'alu', 'price': 60, 'quantity': 4}]
+total price 240
