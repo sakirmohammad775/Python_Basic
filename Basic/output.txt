@@ -1,1 +1,2 @@
-['camera', 'speaker', 'hammer']
+rahim apple 900
+k sam 800
