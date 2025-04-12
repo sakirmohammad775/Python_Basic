@@ -1,0 +1,1 @@
+[<__main__.Product object at 0x0000021CF0FD6CF0>, <__main__.Product object at 0x0000021CF1358910>]
