@@ -22,6 +22,7 @@ class Bike:
         
         
 bmw=Car("BMW","AB",7)
+
 # print(bmw.brand,bmw.model,bmw.capacity)
 
 tesla=ElectricalCar("Tesla","XB",7,10000)
