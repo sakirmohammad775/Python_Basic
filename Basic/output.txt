@@ -1,2 +1,1 @@
-[{'item': 'alu', 'price': 60, 'quantity': 4}]
-total price 240
+<__main__.Student object at 0x000001FF0C986BA0>
